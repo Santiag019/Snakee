@@ -1,3 +1,5 @@
+git config --global user.email "dssuescav@correo.udistrital.edu.co"
+  git config --global user.name "Santiago Suesca"
 import pygame
 from snake import Snake
 from food import Food
